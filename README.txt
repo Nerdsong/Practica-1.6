@@ -1,0 +1,1 @@
+Este es el código de la práctica 1.6 
